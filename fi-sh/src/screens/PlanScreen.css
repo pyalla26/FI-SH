@@ -1,0 +1,31 @@
+.planScreenPlan{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.9;
+    transition: opacity 0.1s;
+    
+}
+.planScreenPlan:hover{
+    opacity: 1;
+}
+.planScreenPlan > button{
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #005fff;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.planScreenPlan > button:active{
+    background-color: rgb(176, 176, 176);
+}
+.planScreenPlanDisabled > button{
+    background-color: rgb(176, 176, 176);
+    cursor:not-allowed;
+}
+.planScreenPlanDisabled:hover{
+    opacity: 0.9;
+}

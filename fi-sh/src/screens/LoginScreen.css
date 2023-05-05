@@ -1,0 +1,88 @@
+.loginScreen{
+    position: relative;
+    height: 100%;
+    background-image:linear-gradient(to bottom, #000 25%, #004dd3 50%, #000 75%) center no-repeat;
+    background-size: cover;
+}
+.loginScreenLogo{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 80px;
+}
+.loginScreenBody > h1{
+    font-size: 3.125rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.loginScreenBody > h2{
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.loginScreenBody > h3{
+    font-size: 1.3rem;
+    font-weight: 400;
+
+}
+.loginScreenBody{
+    position: absolute;
+    top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    z-index: 1;
+    color: #fff;
+    padding: 20px;
+    left: 0;
+    right: 0;
+}
+.loginScreenGradient{
+    width: 100%;
+    z-index: 1;
+    height: 100vh;
+}
+.loginScreenButton{
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #005fff;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.loginScreenGradient{
+    width: 100%;
+    z-index: 1;
+    height: 100vh;
+
+}
+.loginScreenInput{
+    margin: 20px;
+}
+/* .loginScreenInput > form >input{
+    padding: 10px;
+    outline-width: 0;
+    height: 30px;
+    width: 30%;
+    border: none;
+    max-width: 600px;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: px #000;
+} */
+.loginScreenGetStarted{
+    padding: 16px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #005fff;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    cursor: pointer;
+}
+.loginScreenGetStarted:hover{
+    background-color: #003a9f;
+}
