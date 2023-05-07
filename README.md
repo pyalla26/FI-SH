@@ -4,8 +4,10 @@ Demo: https://fi-sh-5ab4a.web.app/
 
 For Stripe Paywall, use card info below:
 
-Card Number: 4242 4242 4242 4242\n
+Card Number: 4242 4242 4242 4242
+
 Month/Year: 04/24
+
 CVV: 424
 
 Fill out the rest however you want
