@@ -12,11 +12,11 @@ CVV: 424
 
 Fill out the rest however you want.
 
-Profile Screen Preview:
-![ProfilePlanScreen](https://github.com/pyalla26/FI-SH/assets/90935615/d6873be4-e766-42ea-a4e6-142d69eb150e)
-
 Sign In Screen Preview:
 ![SignInScreen](https://github.com/pyalla26/FI-SH/assets/90935615/26a8c6fe-6a8b-40fe-9f8c-14c2bdefe1de)
+
+Profile Screen Preview:
+![ProfilePlanScreen](https://github.com/pyalla26/FI-SH/assets/90935615/d6873be4-e766-42ea-a4e6-142d69eb150e)
 
 Home Screen Preview:
 ![HomeScreen](https://github.com/pyalla26/FI-SH/assets/90935615/566acfae-7e3f-4fa4-b550-ca03622f48ff)
